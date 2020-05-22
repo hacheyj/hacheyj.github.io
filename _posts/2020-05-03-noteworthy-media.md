@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-05-03
+title: Noteworthy Media 2020-05-03
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, 'follow-up', technologies, spring, microservices, pulumi, terraform, intellij, log, aws, 'machine-learning', gradle, 'java records', java, liquibase, flyway, hateoas, annotation, security]
 
 ---

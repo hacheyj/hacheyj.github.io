@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-04-05
+title: Noteworthy Media 2020-04-05
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, 'follow-up', training, github, python, 'data science', spring, containers, java, python, jpa, kubernetes, aws, docker, 'event sourcing', databricks, 'apache spark']
 
 ---

@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-04-12
+title: Noteworthy Media 2020-04-12
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, 'follow-up', technologies, swift, python, 'data science', spring, panda, jpa, druid, cobol, gitlab, rest, intellij, kubernetes, rsocket]
 
 ---

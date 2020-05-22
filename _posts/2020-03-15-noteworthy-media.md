@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-03-15
+title: Noteworthy Media 2020-03-15
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [books, articles, trends, 'unit testing', 'spring boot', 'failure analyzer', 'java', 'lifestyle']
 
 ---

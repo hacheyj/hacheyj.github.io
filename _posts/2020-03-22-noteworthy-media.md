@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-03-22
+title: Noteworthy Media 2020-03-22
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, technologies, trends, 'unit testing', 'spring boot', 'java', 'architecture', 'rsocket', 'lifestyle']
 
 ---

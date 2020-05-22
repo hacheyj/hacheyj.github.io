@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-04-26
+title: Noteworthy Media 2020-04-26
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, 'follow-up', technologies, spring, github, Amazon, serverless, bash, git, java, 'google cloud', python, junit, kubernetes, spring]
 
 ---

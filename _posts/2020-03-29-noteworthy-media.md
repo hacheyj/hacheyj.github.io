@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-03-29
+title: Noteworthy Media 2020-03-29
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, 'follup-up', data, aws, bash, hibernate, docker, swift, Go, ide, graphql, java, Kubernetes, rsocket]
 
 ---

@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-05-10
+title: Noteworthy Media 2020-05-10
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, 'follow-up', technologies, 'vs code', skills, github, architecture, graphql, transations, spring, jpa, java, postgresql, aws, 'data science']
 
 ---

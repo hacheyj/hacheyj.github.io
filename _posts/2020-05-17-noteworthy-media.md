@@ -1,8 +1,8 @@
 ---
-title: What I'm Reading 2020-05-17
+title: Noteworthy Media 2020-05-17
 layout: post
-categories: [reading]
-tags: [articles, 'follow-up', technologies, 'vs code', skills, github, architecture, graphql, transations, spring, jpa, java, postgresql, aws, 'data science']
+categories: [noteworthy media]
+tags: [articles, spring, 'code review', maven, gradle, hibernate, jpa, wavefront, junit]
 
 ---
 # Articles
@@ -16,5 +16,3 @@ tags: [articles, 'follow-up', technologies, 'vs code', skills, github, architect
 * [JUnit 5.6 Makes Testing Easy with New Features](https://blogs.oracle.com/javamagazine/junit-5-6-makes-testing-easy-with-new-features)
 * [Running Spring Boot apps as GraalVM Native Images](https://blog.codecentric.de/en/2020/05/spring-boot-graalvm/)
 * [Testing Database Migration Scripts with Spring Boot and Testcontainers](https://reflectoring.io/spring-boot-flyway-testcontainers/)
-
-# Technologies

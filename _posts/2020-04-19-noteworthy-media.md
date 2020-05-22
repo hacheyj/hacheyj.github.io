@@ -1,7 +1,7 @@
 ---
-title: What I'm Reading 2020-04-19
+title: Noteworthy Media 2020-04-19
 layout: post
-categories: [reading]
+categories: [noteworthy media]
 tags: [articles, 'follow-up', technologies, spring, github, Amazon, SQS, 'Apache Solr', memcached, serverless]
 
 ---
