@@ -25,6 +25,7 @@ github_username:  hacheyj
 markdown: kramdown
 theme: minima
 plugins:
+  - jekyll-paginate
   - jekyll-feed
   - jemoji
 google_analytics: UA-167415611-1
@@ -40,3 +41,7 @@ google_analytics: UA-167415611-1
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+paginate: 3
+paginate_path: "/page:num/"
+show_excerpts: true
