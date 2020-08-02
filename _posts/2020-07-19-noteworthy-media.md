@@ -1,0 +1,45 @@
+---
+title: Noteworthy Media 2020-07-19
+layout: post
+categories: [noteworthy media]
+tags: [articles, vpn, security, devops, docker, interview, aws, netflix, ide, intellij, ktor, 'spring boot', vaadin, jpa, hibernate, jdk, terminal, php, python, ftp, toggles, git, monitor, microservices, kubernetes, hashicorp, 'feature flags']
+
+---
+# Articles
+* [NSA Issues VPN Security Guidance](https://www.infosecurity-magazine.com/news/nsa-issues-vpn-security-guidance/)
+* [3 Reasons Why Traceability Should Be a DevOps Priority](https://devops.com/3-reasons-why-traceability-should-be-a-devops-priority)
+* [Order Out of Chaos: Tackling Phishing Attacks](https://securityboulevard.com/2020/07/order-out-of-chaos-tackling-phishing-attacks/)
+* [How hackers extorted $1.14m from University of California, San Francisco](https://www.bbc.com/news/technology-53214783)
+* [Why -- and how -- to use Docker image tags](https://searchitoperations.techtarget.com/feature/Why-and-how-to-use-Docker-image-tags)
+* [How to assess a developers technical ability: A guide for interviewers](https://blog.scottlogic.com/2020/07/01/Tips-for-interviewing-developers.html)
+* [The journey to modern manufacturing with AWS](https://www.allthingsdistributed.com/2020/07/modern-manufactering-with-aws.html)
+* [On Open Source, licenses and changes](https://blog.frankel.ch/on-opensource-licenses-changes/)
+* [Byte Down: Making Netflix’s Data Infrastructure Cost-Effective](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
+* [Poor man’s static web site protection in AWS S3 (with Terraform)](https://tryingthings.wordpress.com/2020/07/13/poor-mans-static-web-site-protection-in-aws-s3-with-terraform/)
+* [Run IDE Features From the Terminal](https://blog.jetbrains.com/idea/2020/07/run-ide-features-from-the-terminal/)
+* [Converting JAX-RS parameters with ParamConverters](https://blog.sebastian-daschner.com/entries/jaxrs-convert-params)
+* [Getting started with Ktor](https://www.mscharhag.com/kotlin/ktor-getting-started)
+* [New Spellchecker Implementation in IntelliJ IDEA 2020.2](https://blog.jetbrains.com/idea/2020/07/new-spellchecker-implementation-in-intellij-idea-2020-2/)
+* [Introducing Java Functions for Spring Cloud Stream Applications - Part 0](https://spring.io/blog/2020/07/13/introducing-java-functions-for-spring-cloud-stream-applications-part-0)
+* [Building web applications with Spring Boot and Vaadin](https://spring.io/blog/2020/07/14/building-web-applications-with-spring-boot-and-vaadin)
+* [How does orphanRemoval work with JPA and Hibernate](https://vladmihalcea.com/orphanremoval-jpa-hibernate/)
+* [Configuring Java applications at runtime with Spring Profiles](https://blog.scottlogic.com/2020/07/10/Spring-Profiles.html)
+* [Potential Inlined JDK Classes](https://marxsoftware.blogspot.com/2020/07/potential-inlined-jdk-classes.html)
+* [Five JUnit 5 features you might not know yet](https://rieckpil.de/five-junit-5-features-you-might-not-know-yet/)
+* [Scalability of SynchronizedMap vs. ConcurrentHashMap vs. NonBlockingHashMap](https://vmlens.com/articles/scale/scalability_hash_map/)
+* ['It's really hard to find maintainers...' Linus Torvalds ponders the future of Linux](https://www.theregister.com/2020/06/30/hard_to_find_linux_maintainers_says_torvalds)
+* [Bash: How To Teleport In The Terminal](https://dev.to/jimmymcbride/bash-how-to-teleport-in-the-terminal-1e09)
+* [Automated Coding and the Future of Programming](https://www.oreilly.com/radar/automated-coding-and-the-future-of-programming/)
+* [Microsoft: We're pulling the plug on Windows builds of programming language PHP](https://www.zdnet.com/article/microsoft-were-pulling-the-plug-on-windows-builds-of-programming-language-php)
+* [Five Python Features You (Probably) Didn’t Know](https://towardsdatascience.com/five-python-features-you-probably-didnt-know-d48faa0b892e)
+* [Spring Tips: Remote File System Integrations (FTP) with Spring Integration](https://spring.io/blog/2020/03/18/spring-tips-remote-file-system-integrations-ftp-with-spring-integration)
+* [Feature toggles in a microservice environment – Part 2: Implementation](https://blog.codecentric.de/en/2019/05/feature-toggles-in-a-microservice-environment-part-2-implementation/)
+* [Analyzing dependencies in IntelliJ IDEA](https://www.vojtechruzicka.com/idea-analyzing-dependencies/)
+* [How to tidy up your merge requests with Git](https://about.gitlab.com/blog/2019/02/07/start-using-git/)
+* [Top 5 open source network monitoring tools](https://opensource.com/article/19/2/network-monitoring-tools)
+* [Applying the single responsibility principle to microservices](https://blog.gojekengineering.com/applying-the-single-responsibility-principle-to-microservices-7edeb7e4d108)
+* [Zero Downtime Server Updates For Your Kubernetes Cluster](https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33)
+* [A guide to automating HashiCorp Vault #1: Auto-unsealing](https://blog.gruntwork.io/a-guide-to-automating-hashicorp-vault-1-auto-unsealing-b219970f02c6)
+* [Does Kubernetes have a target on its back?](https://techbeacon.com/security/does-kubernetes-have-target-its-back)
+* [How to set up continuous deployment in your home project the easy way](https://www.freecodecamp.org/news/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
+* [Eliminate the Stress of Deployment with LaunchDarkly's Feature Flags](https://thenewstack.io/eliminate-the-stress-of-deployment-with-launchdarklys-feature-flags)
